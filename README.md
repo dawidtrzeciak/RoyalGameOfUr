@@ -1,2 +1,0 @@
-# RoyalGameOfUr
-Created with CodeSandbox
